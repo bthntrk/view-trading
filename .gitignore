@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Ortam değişkenleri / gizli anahtarlar
+.env
+.env.*
+
+# Çalışma zamanı verisi
+database/*.db
+logs/*.log
+
+# macOS
+.DS_Store
