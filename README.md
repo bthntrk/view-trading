@@ -28,7 +28,7 @@ The project is designed around clear separation between exchange connectivity, i
 The system is split into independent modules so that strategy logic, execution, exchange access and risk management can evolve separately.
 
 ```text
-project/
+view-trading/
 ├── main.py
 ├── config.py
 ├── requirements.txt
